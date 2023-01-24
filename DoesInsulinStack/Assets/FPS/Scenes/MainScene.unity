@@ -1785,6 +1785,11 @@ PrefabInstance:
       propertyPath: DelayBetweenShots
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 6060539040101434890, guid: 88191ded3b8056c4cb9c704ab0a363d9,
+        type: 3}
+      propertyPath: PathReachingRadius
+      value: 5
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 88191ded3b8056c4cb9c704ab0a363d9, type: 3}
 --- !u!1001 &1771139419
@@ -2067,6 +2072,11 @@ PrefabInstance:
       propertyPath: PathReachingRadius
       value: 5
       objectReference: {fileID: 0}
+    - target: {fileID: 7778934996176290227, guid: 88191ded3b8056c4cb9c704ab0a363d9,
+        type: 3}
+      propertyPath: AttackStopDistanceRatio
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8245368580128302099, guid: 88191ded3b8056c4cb9c704ab0a363d9,
         type: 3}
       propertyPath: MaxHealth
@@ -2168,6 +2178,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Enemy_Turret
+      objectReference: {fileID: 0}
+    - target: {fileID: 4608396794990996731, guid: 6463028739d43bf47909f0497c9eda73,
+        type: 3}
+      propertyPath: AmmoReloadDelay
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4608396794990996731, guid: 6463028739d43bf47909f0497c9eda73,
         type: 3}
@@ -5574,6 +5589,16 @@ PrefabInstance:
         type: 3}
       propertyPath: DelayBetweenShots
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6060539040101434890, guid: 0a7c05d15d701e744b4b76bec6796bfb,
+        type: 3}
+      propertyPath: PathReachingRadius
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 7778934996176290227, guid: 0a7c05d15d701e744b4b76bec6796bfb,
+        type: 3}
+      propertyPath: AttackStopDistanceRatio
+      value: 0.5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0a7c05d15d701e744b4b76bec6796bfb, type: 3}
