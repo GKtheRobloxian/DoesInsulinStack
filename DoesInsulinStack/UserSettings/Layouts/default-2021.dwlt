@@ -43,8 +43,8 @@ MonoBehaviour:
     y: 0
     width: 197
     height: 947
-  m_MinSize: {x: 300, y: 380}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 301, y: 401}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 16
+  controlID: 81
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -95,8 +95,8 @@ MonoBehaviour:
     y: 0
     width: 321
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 82
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -276,7 +276,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 18
+  controlID: 83
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -442,22 +442,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/FPS/Prefabs/Projectiles
+    - Assets/FPS/Prefabs/Weapons
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/FPS/Prefabs/Projectiles
+  - Assets/FPS/Prefabs/Weapons
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\750994\Documents\Unity\GitHub\DoesInsulinStack\DoesInsulinStack
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 84}
-    m_SelectedIDs: 40c70000
-    m_LastClickedID: 51008
-    m_ExpandedIDs: 00000000ecc60000eec60000f0c60000f2c60000f4c60000f6c6000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 360}
+    m_SelectedIDs: 0ac80000
+    m_LastClickedID: 51210
+    m_ExpandedIDs: 00000000d2c70000d4c70000d6c70000d8c70000dac70000dcc70000f6c70000fec700001ec80000ae8d080000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -485,7 +485,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ecc60000eec60000f0c60000f2c60000f4c60000f6c60000
+    m_ExpandedIDs: 00000000d2c70000d4c70000d6c70000d8c70000dac70000dcc70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -513,7 +513,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000
+    m_ExpandedInstanceIDs: c6230000e0870800
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -577,7 +577,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 1026
+  m_LastVerticalScrollValue: 432
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -615,23 +615,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: dec90000
       m_LastClickedID: 0
-      m_ExpandedIDs: baa7beff5aa8beff6ea8beff18ffc5ff80ffc5ff84ffc5ff88ffc5ff90ffc5ff94ffc5ff98ffc5ff9cffc5ffa2ffc5ffb4ffc5ff86f0ffff8af0ffff8ef0ffff96f0ffff9af0ffff9ef0ffffa2f0ffffa8f0ffffbaf0ffff7cf4ffff30f5ffff2efbffff
+      m_ExpandedIDs: bc73ffffc073ffffc473ffffcc73ffffd073ffffd473ffffd873ffffde73fffff073ffffc07cffffde7cfffff67cffff1e7dffff36a7ffff3aa7ffffcca7ffff2efbffffca6d0000766e00009e6e0000d66e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: WeaponRoot
-        m_OriginalName: WeaponRoot
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -4282438
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -675,7 +675,7 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: -254, y: 0}
+      snapOffset: {x: -254, y: 25}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 1
       id: unity-transform-toolbar
@@ -867,9 +867,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 4.7965927, y: 5.1185536, z: 38.213177}
+    m_Target: {x: -28.571554, y: -85.067764, z: 186.74954}
     speed: 2
-    m_Value: {x: 4.7965927, y: 5.1185536, z: 38.213177}
+    m_Value: {x: -28.571554, y: -85.067764, z: 186.74954}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -916,13 +916,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.109550126, y: 0.7301413, z: -0.12052379, w: -0.66361594}
+    m_Target: {x: -0.21879964, y: 0.012291839, z: -0.0027366013, w: -0.9757023}
     speed: 2
-    m_Value: {x: -0.10954905, y: 0.7301341, z: -0.12052261, w: -0.66360945}
+    m_Value: {x: -0.21879672, y: 0.012291675, z: -0.0027365647, w: -0.97568923}
   m_Size:
-    m_Target: 4.900522
+    m_Target: 104.41493
     speed: 2
-    m_Value: 4.900522
+    m_Value: 104.41493
   m_Ortho:
     m_Target: 0
     speed: 2
