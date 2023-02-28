@@ -285,8 +285,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.8
-      minScalar: 4
+      scalar: 0.4
+      minScalar: 2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -338,8 +338,8 @@ ParticleSystem:
     startSizeY:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.8
-      minScalar: 4
+      scalar: 0.4
+      minScalar: 2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -391,8 +391,8 @@ ParticleSystem:
     startSizeZ:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 0.8
-      minScalar: 4
+      scalar: 0.4
+      minScalar: 2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -1363,7 +1363,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 1, b: 1, a: 1}
+        key0: {r: 1, g: 0.85207427, b: 0.07075471, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
@@ -4892,7 +4892,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5456729917520863263}
   m_Layer: 0
-  m_Name: VFX_DiskRange
+  m_Name: VFX_DiskRange 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -10084,7 +10084,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 20
+      scalar: 10
       minScalar: 1.5
       maxCurve:
         serializedVersion: 2
@@ -11162,7 +11162,7 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 1, g: 0.84971035, b: 0.5235849, a: 1}
+        key0: {r: 1, g: 0.8668342, b: 0.2688679, a: 1}
         key1: {r: 1, g: 1, b: 1, a: 0}
         key2: {r: 0, g: 0, b: 0, a: 0}
         key3: {r: 0, g: 0, b: 0, a: 0}
