@@ -29,7 +29,7 @@ namespace Unity.FPS.Gameplay
             "Sharpness for the movement when grounded, a low value will make the player accelerate and decelerate slowly, a high value will do the opposite")]
         public float MovementSharpnessOnGround = 15;
 
-        [Tooltip("Max movement speed when crouching")] [Range(0, 1)]
+        [Tooltip("Max movement speed when crouching")] [Range(0, 2)]
         public float MaxSpeedCrouchedRatio = 0.5f;
 
         [Tooltip("Max movement speed when not grounded")]
@@ -306,7 +306,7 @@ namespace Unity.FPS.Gameplay
                     Vector3 targetVelocity = worldspaceMoveInput * MaxSpeedOnGround * speedModifier;
                     // reduce speed if crouching by crouch speed ratio
                     if (IsCrouching)
-                        targetVelocity *= MaxSpeedCrouchedRatio;
+                        targetVelocity = targetVelocity*MaxSpeedCrouchedRatio;
                     targetVelocity = GetDirectionReorientedOnSlope(targetVelocity.normalized, m_GroundNormal) *
                                      targetVelocity.magnitude;
 
