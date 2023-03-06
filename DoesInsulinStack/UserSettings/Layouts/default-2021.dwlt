@@ -75,7 +75,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 85
+  controlID: 142
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -455,9 +455,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 675}
-    m_SelectedIDs: 90c70000
-    m_LastClickedID: 51088
-    m_ExpandedIDs: 0000000024c7000026c7000028c700002ac700002cc700002ec7000030c7000032c7000034c7000036c7000068c7000080c7000084c7000080aa0a0000ca9a3bffffff7f
+    m_SelectedIDs: 4eca0000
+    m_LastClickedID: 51790
+    m_ExpandedIDs: 000000009cc900009ec90000a0c90000a2c90000a4c90000a6c90000a8c90000aac90000acc90000aec90000b0c90000b2c90000b4c9000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -485,7 +485,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000024c7000026c7000028c700002ac700002cc700002ec7000030c7000032c7000034c7000036c70000
+    m_ExpandedIDs: 000000009cc900009ec90000a0c90000a2c90000a4c90000a6c90000a8c90000aac90000acc90000aec90000b0c90000b2c90000b4c90000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -512,7 +512,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000e0870800
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -577,7 +577,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 864
   m_GlobalObjectId: 
   m_InspectorMode: 0
   m_LockTracker:
@@ -615,23 +615,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 16af0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 6c80fcffe8fffeff0800ffff9201ffff2004fffff011ffff7482ffff8682ffff1084ffff9e86ffffd48fffffbebcffffeed2ffff8ed3ffffa2d3ffff2efbfffffe6d0000d66e0000026f00001a6f0000
+      m_SelectedIDs: bed1ffff
+      m_LastClickedID: -11842
+      m_ExpandedIDs: 2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: ObjectiveKillEnemies
-        m_OriginalName: ObjectiveKillEnemies
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -71270
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 5}
       m_SearchString: 
@@ -867,9 +867,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 1680.9174, y: -1852.6868, z: -1261.7866}
+    m_Target: {x: 1681.9408, y: -1416.5815, z: -1749.5355}
     speed: 2
-    m_Value: {x: 1680.9174, y: -1852.6868, z: -1261.7866}
+    m_Value: {x: 1681.9408, y: -1416.5815, z: -1749.5355}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -916,9 +916,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.15032491, y: 0.8451555, z: -0.31250176, w: 0.40698627}
+    m_Target: {x: 0.09522405, y: 0.8978912, z: -0.23996392, w: 0.35682228}
     speed: 2
-    m_Value: {x: 0.15031135, y: 0.84507924, z: -0.31247357, w: 0.40694955}
+    m_Value: {x: 0.09521544, y: 0.89781, z: -0.23994221, w: 0.35679}
   m_Size:
     m_Target: 1471.0272
     speed: 2
